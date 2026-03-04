@@ -176,3 +176,4 @@ Future improvements could include:
 - Applying deep learning forecasting models
 - Integrating GIS-based spatial analysis
 - Developing real-time accident prediction systems
+  
