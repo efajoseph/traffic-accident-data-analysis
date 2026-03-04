@@ -157,8 +157,6 @@ These techniques helped identify patterns within accident networks.
 
 ---
 
-## Project Structure
-
 ## Key Insights
 
 - Accidents are most common during **rush hour traffic**
